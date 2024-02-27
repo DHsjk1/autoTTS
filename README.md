@@ -1,5 +1,6 @@
 ## About
 AutoTTS is a program which allows you to easily generate tts using ElevenLabs API from a script.
+![screenshot](https://github.com/DHsjk1/autoTTS/assets/128737623/074a9b92-7213-477e-9c96-e98a2dbf4c89)
 
 ## Requirements
 - Color library by Faith: `github.com/fatih/color`
